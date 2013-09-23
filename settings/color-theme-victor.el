@@ -1,6 +1,6 @@
 ;;; Victor's color theme.
 ;;; Based on color-theme-tango by danranx.
-(defun color-theme ()
+(defun color-theme-victor ()
   "A color theme based on Tango Palette."
   (interactive)
   (color-theme-install
